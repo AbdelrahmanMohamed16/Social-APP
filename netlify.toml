@@ -4,6 +4,7 @@
   status = 200
   force = true
 
+[[redirects]]
   from = "/api/v1/Register"
   to = "http://hawas.runasp.net/api/v1/Register"
   status = 200
