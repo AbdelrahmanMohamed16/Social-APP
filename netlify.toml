@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://66df95baf1c74ec7163160db--s7yfa.netlify.app/api/*"
+  from = "https://s7yfa.netlify.app/api/*"
   to = "http://hawas.runasp.net/:splat"
   status = 200
   force = true
