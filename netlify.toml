@@ -3,3 +3,8 @@
   to = "http://hawas.runasp.net/api/v1/Login"
   status = 200
   force = true
+
+  from = "/api/v1/Register"
+  to = "http://hawas.runasp.net/api/v1/Register"
+  status = 200
+  force = true
